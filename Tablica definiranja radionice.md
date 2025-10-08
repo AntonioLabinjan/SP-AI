@@ -1,5 +1,5 @@
-| Lokacija  | Datum  | Vrijeme  | Naslov  | Tema  | Predavač(i)  | Način izvođenja | Trajanje izvođenja   | Povezanost s real lifeom  | Linkovi za resurse | Zadaci za studente  | Oprema  | Dogovoreno s Miličićem    | Status pripreme | Bilješke  |
-|-----------|--------|----------|---------|-------|--------------|-----------------|----------------------|---------------------------|--------------------|---------------------|---------|---------------------------|-----------------|-----------|
+| Lokacija  | Datum  | Vrijeme  | Naslov  | Tema  | Predavač(i)  | Način izvođenja | Trajanje izvođenja   | Povezanost s real lifeom  | Očekivani broj studenata | Linkovi za resurse | Zadaci za studente  | Oprema  | Dogovoreno s Miličićem    | Status pripreme | Bilješke  |
+|-----------|--------|----------|---------|-------|--------------|-----------------|----------------------|---------------------------|--------------------------|--------------------|---------------------|---------|---------------------------|-----------------|-----------|
 |           |        |          |         |       |              |                 |                      |                           |                    |                     |         |                           |                 |           |
 |           |        |          |         |       |              |                 |                      |                           |                    |                     |         |                           |                 |           |
 |           |        |          |         |       |              |                 |                      |                           |                    |                     |         |                           |                 |           |
@@ -15,6 +15,7 @@
 - Način izvođenja => kako se izvodi; koji je način prenošenja znanja (koriste li se ppt prezentacije, live coding, pdf skripte, yt videa)
 - Trajanje izvođenja => je li blok sat, 1 sat, 30 minuta (odokativna procjena izvođača o tome koliko će im trebati za odrađivanje teme)
 - Povezanost s real lifeom => kako studenti mogu upotrijebiti temu obrađenu na radionici u svakodnevnom životu i studiranju; kako im ona koristi i pomaže
+- Očekivani broj studenata => koliko studenata mislite da biste mogli ishendlati tijekom 1 radionica; koliko biste ih najmanje htijeli imati (basically gornji i donji limit)
 - Linkovi za resurse (optional) => popis linkova na razne online editore, yt videa, stranice i sl. (čisto da se svi resursi potrebni za 1 radionicu nalaze na 1 mjestu)
 - Zadaci za studente (optional) => nije nužno da svaka radionica obavezno ima zadatke za studente, ali ako bude imala, poželjno je definirati točan sadržaj zadatka, područje koje on pokriva i očekivan rezultat pomoću kojeg evaluiramo uspješnost studenata u rješavanju istog
 - Oprema => navesti ako nam treba neka dodatna oprema koja nije po defaultu dostupna u dvorani (u svakoj dvorani imamo osiguran projektor i pametnu ploču; u svakoj dvorani osim 132 imamo osigurana i računala za studente)
