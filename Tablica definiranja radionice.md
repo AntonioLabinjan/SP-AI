@@ -19,5 +19,5 @@
 - Zadaci za studente (optional) => nije nužno da svaka radionica obavezno ima zadatke za studente, ali ako bude imala, poželjno je definirati točan sadržaj zadatka, područje koje on pokriva i očekivan rezultat pomoću kojeg evaluiramo uspješnost studenata u rješavanju istog
 - Oprema => navesti ako nam treba neka dodatna oprema koja nije po defaultu dostupna u dvorani (u svakoj dvorani imamo osiguran projektor i pametnu ploču; u svakoj dvorani osim 132 imamo osigurana i računala za studente)
 - Dogovoreno s Miličićem => čisti boolean; dali je prof. Miličić odobrio termin
-- Status pripreme => work in progress/done (vidit ćemo kad budemo radili dali će se "nametnut" još koji status
+- Status pripreme => work in progress/done (vidit ćemo kad budemo radili dali će se "nametnut" još koji status)
 - Bilješke => bilješke izvođača u pripremi za radionicu (tipa: "Obavezno moramo objasniti koncept ROC krivulje"; just na example)
